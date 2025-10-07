@@ -15,8 +15,9 @@ class _LoginScreenState extends State<LoginScreen> {
   String error = '';
 
   Future<void> signIn() async {
-    // Firebase login setup
-    try {
+    // Firebase login setup git
+    // New commit test
+    try {  
       UserCredential userCredential = await FirebaseAuth.instance.signInWithEmailAndPassword(
         email: emailController.text.trim(),
         password: passwordController.text.trim(),
