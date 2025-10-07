@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6756509677",
+    "project_id": "dartsapp-facb1",
+    "storage_bucket": "dartsapp-facb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6756509677:android:e59a47fd71d1a848c729e4",
+        "android_client_info": {
+          "package_name": "com.ognjen.darts_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC501CXOdU_cQoYoCBgyjfjf-cSioFgjWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
